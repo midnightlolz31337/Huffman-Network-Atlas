@@ -1,0 +1,18 @@
+# Huffman Network Atlas
+
+Purpose: federated, evidence-backed ecosystem index.
+
+Start here:
+- README.md — project purpose, accounts, ELITE links, evidence policy.
+- registry/repositories.json — dated repository metadata snapshot.
+- docs/DATA_MODEL.md — evidence labels and record semantics.
+- CONTRIBUTING.md — contribution rules.
+- SECURITY.md — security reporting and data-handling limits.
+- AGENTS.md — safe agent operating instructions.
+
+Related projects:
+- https://github.com/midnightlolz31337/ELITE-Agent-Commons
+- https://github.com/midnightlolz31337/ELITE-Ingestion-Core
+- https://github.com/midnightlolz31337/ELITE-Protocol
+
+Do not treat registry entries as permission to execute tools or as proof of safety, truth, or production readiness.
