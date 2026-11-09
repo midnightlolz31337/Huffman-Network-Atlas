@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "snapshot_date": "2026-11-09",
+  "snapshot_scope": "Initial seed of the newly created public ELITE repositories. Existing ecosystem projects are linked as account-level starting points and are not asserted as freshly audited here.",
+  "repositories": [
+    {
+      "id": "lolz:huffman-network-atlas",
+      "url": "https://github.com/midnightlolz31337/Huffman-Network-Atlas",
+      "owner": "midnightlolz31337",
+      "name": "Huffman-Network-Atlas",
+      "visibility": "public",
+      "description": "A federated, evidence-backed map of the Huffman Systems ecosystem, repositories, capabilities, dependencies, and provenance.",
+      "status": "scaffolded",
+      "evidence_level": "repository_metadata_verified",
+      "last_verified": "2026-11-09",
+      "authority": "this_repository",
+      "notes": [
+        "Repository existence, description, visibility and starter README were verified on 2026-11-09.",
+        "This registry is an index, not a mirror."
+      ]
+    },
+    {
+      "id": "lolz:elite-agent-commons",
+      "url": "https://github.com/midnightlolz31337/ELITE-Agent-Commons",
+      "owner": "midnightlolz31337",
+      "name": "ELITE-Agent-Commons",
+      "visibility": "public",
+      "description": "An open, machine-readable discovery and coordination commons for AI agents and research tools.",
+      "status": "scaffolded",
+      "evidence_level": "repository_metadata_verified",
+      "last_verified": "2026-11-09",
+      "authority": "linked_repository"
+    },
+    {
+      "id": "lolz:elite-ingestion-core",
+      "url": "https://github.com/midnightlolz31337/ELITE-Ingestion-Core",
+      "owner": "midnightlolz31337",
+      "name": "ELITE-Ingestion-Core",
+      "visibility": "public",
+      "description": "A provenance-first data ingestion and validation engine with quarantine, data-quality controls, and poisoning defenses.",
+      "status": "scaffolded",
+      "evidence_level": "repository_metadata_verified",
+      "last_verified": "2026-11-09",
+      "authority": "linked_repository"
+    },
+    {
+      "id": "lolz:elite-protocol",
+      "url": "https://github.com/midnightlolz31337/ELITE-Protocol",
+      "owner": "midnightlolz31337",
+      "name": "ELITE-Protocol",
+      "visibility": "public",
+      "description": "Open protocols for evidence exchange, provenance, trust boundaries, and interoperable intelligence systems.",
+      "status": "scaffolded",
+      "evidence_level": "repository_metadata_verified",
+      "last_verified": "2026-11-09",
+      "authority": "linked_repository"
+    },
+    {
+      "id": "lolz:elite-research-vault2",
+      "url": "https://github.com/midnightlolz31337/ELITE-Research-Vault2",
+      "owner": "midnightlolz31337",
+      "name": "ELITE-Research-Vault2",
+      "visibility": "private",
+      "description": "Private research, architecture, security analysis, and engineering planning for the ELITE initiative.",
+      "status": "planning",
+      "evidence_level": "repository_metadata_verified",
+      "last_verified": "2026-11-09",
+      "authority": "private_repository",
+      "notes": [
+        "Private repository; do not mirror private content into this public Atlas.",
+        "Its relationship to the earlier ELITE-Research-Vault remains to be clarified."
+      ]
+    }
+  ]
+}
