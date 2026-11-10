@@ -1,5 +1,13 @@
 # License status
 
-No open-source license has been selected for this repository yet. Public visibility on GitHub does not, by itself, grant permission to reuse, modify, distribute, or incorporate the contents.
+The Huffman Network Atlas repository as a whole has **no selected repository-wide open-source license**. Public visibility on GitHub does not grant permission to reuse, modify, distribute, or incorporate the repository's other contents. Treat all files not expressly licensed otherwise as all rights reserved.
 
-Before inviting external contributions or advertising this repository as open source, the maintainers should choose and add a license after reviewing the project's intended reuse and patent requirements. Until then, treat all rights as reserved. This notice is informational, not legal advice.
+## Scoped documentation license
+
+The following document alone is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+
+- `standards/ROUNDHOUSE_ACCOUNT_SAFETY_SOP.md`
+
+See [the scoped license notice](LICENSES/CC-BY-4.0-NOTICE.md) for attribution and scope. This document-specific license does not license the Atlas code, registry data, other documentation, marks, or third-party materials.
+
+Before inviting contributions to other repository components or advertising the repository as open source, maintainers must select and add an appropriate repository-wide license after reviewing intended reuse and patent requirements. This notice is informational, not legal advice.
