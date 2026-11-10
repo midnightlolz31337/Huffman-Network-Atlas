@@ -32,3 +32,7 @@ python tools/render_summary.py
 
 ## Status
 Initial public catalogue scaffold. It is not yet a complete audit of every repository in the four-account ecosystem. See [DATA_MODEL](docs/DATA_MODEL.md) and [RESEARCH_METHOD](docs/RESEARCH_METHOD.md).
+
+## Roundhouse safety standard
+
+The [Roundhouse Account and Repository Safety SOP](standards/ROUNDHOUSE_ACCOUNT_SAFETY_SOP.md) is a community contribution-ready safety checklist. Contributions are welcome under the [Roundhouse contribution guide](CONTRIBUTING_ROUNDHOUSE.md). **Only the SOP document is licensed CC BY 4.0**; see [the scoped license notice](LICENSES/CC-BY-4.0-NOTICE.md). The rest of this repository remains unlicensed unless explicitly stated otherwise.
